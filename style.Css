@@ -103,22 +103,35 @@ h6 {font-size: 40px;
 }
 
 main.CV{display: grid;
-    grid-template-columns:20% 80%;
+    grid-template-columns:30% 70%;
     grid-template-rows:auto;
-    padding: 0%;
-    margin: 0%;
+    padding: 0;
+    margin: 0;
+    word-spacing: 1%;
+    line-height: 1.5;
+    color:white;
+    
     
 
 }
-article{background-color: burlywood;
-       margin: 0%;
+article{background-color:grey;
+        
+       
             
 }
 
 
+a[href^="mailto"]::before {
+    content: "📧 ";
+}
 
+a[href^="tel"]::before {
+    content: "📞 ";
+}
 
+section.C2{color: lightblue;
 
+}
 
 
 
