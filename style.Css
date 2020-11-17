@@ -129,8 +129,9 @@ a[href^="tel"]::before {
     content: "📞 ";
 }
 
-section.C2{color: lightblue;
-
+section.C2{color: black;
+          margin: 0%;
+          padding: 0%;
 }
 
 
