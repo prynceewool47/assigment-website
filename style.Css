@@ -106,10 +106,12 @@ main.CV{display: grid;
     grid-template-columns:20% 80%;
     grid-template-rows:auto;
     padding: 0%;
+    margin: 0%;
     
 
 }
 article{background-color: burlywood;
+       margin: 0%;
             
 }
 
