@@ -1,3 +1,4 @@
+
 *{margin:0;
  padding:0;
  box-sizing: border-box;
@@ -78,7 +79,7 @@ form{
 }
 main.image{
         float: center;
-        width: 10.33% ;
+        width: 10.33% 10.33%;
         padding: 0px;
         }
 
