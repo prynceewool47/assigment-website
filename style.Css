@@ -20,7 +20,8 @@ header {
         list-style: None ;
         font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
         margin: 1%;
-        padding: 1%
+        padding: 1%;
+        
          
        
 
@@ -76,9 +77,9 @@ form{
     
 }
 main.image{width: 100px;
-              height: 100px;
-              margin-left: auto;
-              margin-right: auto;
+        height: 100px;
+        text-align: center;
+          
 
 
               
@@ -88,7 +89,9 @@ main.image{width: 100px;
 }
 h5{font-size: 40px;
    background-color: burlywood;
-    text-align: center;}
+    text-align: center;
+   
+}
 
 main.P{
     display: grid;
@@ -99,6 +102,7 @@ main.P{
 
 
 h6 {font-size: 40px;
+    
 
 }
 
@@ -135,7 +139,9 @@ section.C2{color: black;
 }
 
 
+h2{ text-decoration: underline;
 
+}
 
 
 
